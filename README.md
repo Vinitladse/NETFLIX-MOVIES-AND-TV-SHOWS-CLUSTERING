@@ -38,6 +38,7 @@ Discussion of Netflix Movies And Tv Shows Clustering will involve various steps 
 •	Conclusion
 
 That's how we have accomplished our team work in Netflix Movies And Tv Shows Clustering .Throughout the project we learn many new things right from takingproblem statement to understand the technical side of a data to analysis. We deal with Netflix data.
+
 •	There are about 70% movies and 30% TV shows on Netflix.
 •	The United States has the highest number of content on Netflix by a huge margin followed by India.
 •	LDA and LSA has sorted much more similar titles in a group of genre.
